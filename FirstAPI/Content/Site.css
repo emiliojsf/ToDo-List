@@ -1,0 +1,101 @@
+﻿.datepickerdemoBasicUsage {
+  /** Demo styles for mdCalendar. */ }
+  .datepickerdemoBasicUsage md-content {
+    padding-bottom: 200px; }
+  .datepickerdemoBasicUsage .validation-messages {
+    font-size: 12px;
+    color: #dd2c00;
+    margin-left: 15px; 
+  }
+
+  md-content {
+      background-color: #dcdada;
+  }
+
+
+
+  .md-toolbar-tools {
+      margin-left: 30px;
+      padding-left: 30px;
+  }
+  
+  md-content .md-default-theme {
+  background-color: #737373;
+}
+
+md-card {
+  background-color: #fff;
+}
+
+md-card-content {
+    padding: 0;
+    max-width: 700px;
+}
+
+.cardFixed {
+    max-width: 50%;
+    min-width: 50%;
+}
+
+md-card h2:first-of-type {
+  margin-top: 0;
+}
+
+md-toolbar .md-button .md-default-theme {
+  border-radius: 99%;
+}
+
+h2 {
+  font-weight: 400;
+}
+
+h4 {
+    text-overflow: ellipsis;
+    word-wrap: break-word;
+}
+
+.md-toolbar-tools-bottom {
+  font-size: small;
+}
+
+.md-toolbar-tools-bottom :last-child {
+  opacity: 0.8;
+}
+
+md-toolbar:not(.md-hue-1),
+.md-fab {
+    fill: #000;
+}
+
+md-option, md-select {
+    text-align: center;
+}
+
+.backBlue{
+  background-color:#3F51B5;
+}
+
+md-sidenav {
+    background-color: azure;
+  fill: #737373;
+}
+
+md-sidenav ng-md-icon {
+  position: relative;
+  top: 5px;
+}
+
+.user-avatar {
+  border-radius: 99%;
+}
+
+.allWidth {
+    min-width: 100%;
+}
+
+.myDialog{
+    min-width: 50%;
+    height:auto;
+}
+
+/*# sourceMappingURL=style.css.map *
